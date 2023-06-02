@@ -13,7 +13,7 @@ PyDictionary==2.0.1
 psycopg2-binary
 feedparser
 hachoir
-pynewtonmath
+pynewtonmath==1.0.1
 spongemock
 zalgo-text
 geopy
