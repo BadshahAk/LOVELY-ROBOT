@@ -23,7 +23,7 @@
 ## 🚀 𝐃ερℓσү ση нεяσкυ 
 
 
-[![Deploy](https://telegra.ph/file/272d05fa5ebebf113a006.jpg)](https://heroku.com/deploy?template=https://github.com/Official-Afk-xD/LOVELY-ROBOT)
+[![Deploy](https://telegra.ph/file/272d05fa5ebebf113a006.jpg)](https://heroku.com/deploy?template=https://github.com/BadshahAk/LOVELY-ROBOT)
  
 __________________________________
 
