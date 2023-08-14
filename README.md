@@ -10,7 +10,7 @@
   <a href="https://github.com/Official-afk-xD/Yuriko-xD/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/LOVELY_RO_BOT"><img src="(https://telegra.ph/file/e0fe477730310fb1b610e.jpg)" width="400"></a></p>
+<p align="center"><a href="https://tg://user?id=5287077710"><img src="(https://telegra.ph/file/e0fe477730310fb1b610e.jpg)" width="400"></a></p>
 
 ## Available on Telegram as [LOVELY BOT](https://t.me/LOVELY_RO_BOT)
 
